@@ -57,7 +57,7 @@ A Django | React application that forecast time series data using ARIMA and RNN 
 - Joblib
 - Knox
 - Material UI
-- Plotly js  
+- Plotly js
 
 [Back To The Top](#Time-series-forecasting-ARIMA-RNN)
 
@@ -119,11 +119,7 @@ npm start
 
 ## Demo
 
-```html
-Not featured yet
-```
-
-[Back To The Top](#Time-series-forecasting-ARIMA-RNN)
+[Time series Demo](https://drive.google.com/file/d/1mClFOJBEF0ofIC6iT0_hhbmvjJi8DuO-/view?usp=sharing)
 
 ---
 

@@ -233,7 +233,7 @@ export class Reports extends Component {
                       <ul>
                       <li><Box sx={{
                             m:1 }} >
-                        <a   download href='/static/ARIMA.pdf' >   
+                        <a target="_blank" href='https://khiati-walid.github.io/Time-series-forecasting-ARIMA-RNN/ARIMA.pdf' >   
       
                         <Box sx={{
                               alignItems: 'center',
@@ -245,7 +245,7 @@ export class Reports extends Component {
                       <li><Box sx={{
                              m:1
                               }}>
-                        <a   download href='/static/RNN.pdf' >   
+                        <a   target="_blank" href='https://khiati-walid.github.io/Time-series-forecasting-ARIMA-RNN/RNN.pdf' >   
       
                         <Box sx={{
                               alignItems: 'center',

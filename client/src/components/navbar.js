@@ -34,7 +34,7 @@ export const Navbar = () => (
       >
        <Logo /></Box> 
        <Box >
-         <a style={{color:'white'}} download href='/static/Khiati-Hamroun-Master-2021.pdf' >   
+         <a style={{color:'white'}} target="_blank" href='https://khiati-walid.github.io/Time-series-forecasting-ARIMA-RNN/Khiati-Hamroun-Master-2021.pdf' >   
       
        <Box sx={{
         alignItems: 'center',

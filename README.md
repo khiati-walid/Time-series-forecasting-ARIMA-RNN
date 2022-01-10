@@ -1,5 +1,7 @@
 # Time-series-forecasting-ARIMA-RNN
 
+![Project Image](https://i.ibb.co/cFDWwxx/Screenshot-5.png)
+
 > [Our paper | Time Series Forecasting](https://khiati-walid.github.io/Time-series-forecasting-ARIMA-RNN/Khiati-Hamroun-Master-2021.pdf)
 
 ---
